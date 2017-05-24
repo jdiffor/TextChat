@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TextChat</string>
+    <string name="display_name">display name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login_failed">Incorrect username or password</string>
+    <string name="create_account_failed">An account with that email has already been created</string>
+    <string name="login">Login</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="create_account">Create Account</string>
+    <string name="logout">Logout</string>
+    <string name="dontHaveAccount">Don\'t have an account? \nClick below to create one.</string>
+    <string name="display_name_in_use">Display name already used</string>
+    <string name="creating_account">Creating account...</string>
+</resources>

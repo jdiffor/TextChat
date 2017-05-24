@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287943217819",
+    "firebase_url": "https://textchat-3c3f1.firebaseio.com",
+    "project_id": "textchat-3c3f1",
+    "storage_bucket": "textchat-3c3f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287943217819:android:24e3d0c12146e5b3",
+        "android_client_info": {
+          "package_name": "com.johndiffor.textchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287943217819-gajjo6i6acd9oq4913kqk37unsl26rhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johndiffor.textchat",
+            "certificate_hash": "5ebe5f709776a009d2aaccca5923d2f85fbee1ee"
+          }
+        },
+        {
+          "client_id": "287943217819-3vm74bqr7r74co7nnvancj7fba99faoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkjD4eHlaTySp5vwyJDTpFpYMFD3snWI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287943217819-3vm74bqr7r74co7nnvancj7fba99faoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
